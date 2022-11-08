@@ -8,7 +8,6 @@ import "fmt"
 // Transactions
 // KeyPairs etc etc 
 
-
 func main() {
 	fmt.Println("Hello World")
 
